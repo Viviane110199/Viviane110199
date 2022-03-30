@@ -22,6 +22,4 @@ Seja bem-vinde!
  <a href="https://discord.gg/4YZaekr6rU" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:vivianerego22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/Vivi110199/Viviane110199/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+  ![Snake animation](https://github.com/Viviane110199/Viviane110199/blob/output/github-contribution-gridsnake-svg)
