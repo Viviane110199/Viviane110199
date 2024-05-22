@@ -1,4 +1,4 @@
-### ## Olá, eu sou a Vivi!  Seja bem-vinde!
+### ## Olá, eu sou a Vivi!  Seja bem-vindo(a)!
 <div align="center">
   <a href="https://github.com/Viviane110199">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viviane110199&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
